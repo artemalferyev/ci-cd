@@ -26,6 +26,7 @@ ci-cd/
 ---
 
 ## ⚙️ Setup
+
 1. Clone the repo:
 
 ```bash
